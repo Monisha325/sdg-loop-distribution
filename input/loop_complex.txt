@@ -1,0 +1,4 @@
+S1: X[i] = Y[i] + Z[i]
+S2: Y[i] = X[i-1] + W[i]
+S3: Z[i] = Y[i] + V[i]
+S4: W[i] = Z[i-1] + X[i]

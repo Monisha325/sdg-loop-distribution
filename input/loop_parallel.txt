@@ -1,0 +1,3 @@
+S1: A[i] = B[i] + C[i]
+S2: D[i] = E[i] + F[i]
+S3: G[i] = H[i] + I[i]

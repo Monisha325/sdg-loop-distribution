@@ -1,0 +1,16 @@
+{
+    "nodes": [
+        {
+            "id": "SCC1",
+            "statements": [
+                "S3",
+                "S1",
+                "S2"
+            ],
+            "size": 3,
+            "parallelizable": false,
+            "loop_carried_count": 1
+        }
+    ],
+    "edges": []
+}

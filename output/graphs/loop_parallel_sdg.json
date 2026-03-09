@@ -1,0 +1,32 @@
+{
+    "nodes": [
+        {
+            "id": "SCC1",
+            "statements": [
+                "S1"
+            ],
+            "size": 1,
+            "parallelizable": true,
+            "loop_carried_count": 0
+        },
+        {
+            "id": "SCC2",
+            "statements": [
+                "S2"
+            ],
+            "size": 1,
+            "parallelizable": true,
+            "loop_carried_count": 0
+        },
+        {
+            "id": "SCC3",
+            "statements": [
+                "S3"
+            ],
+            "size": 1,
+            "parallelizable": true,
+            "loop_carried_count": 0
+        }
+    ],
+    "edges": []
+}

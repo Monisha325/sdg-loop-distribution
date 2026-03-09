@@ -1,0 +1,3 @@
+S1: A[i] = B[i] + C[i]
+S2: B[i] = A[i-1] + D[i]
+S3: D[i] = E[i] + F[i]
