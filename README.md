@@ -169,6 +169,4 @@ generate_loops(topo_walk(sdg), '.', 'loop_parallel')
 
 ---
 
-Built for internship application to the **Scalable Compilers for Heterogeneous Architectures Lab**,  
-Dept. of Computer Science & Engineering, IIT Hyderabad — Dr. Ramakrishna Upadrasta  
-[compilers.cse.iith.ac.in](https://compilers.cse.iith.ac.in)
+
